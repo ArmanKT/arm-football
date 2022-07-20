@@ -65,10 +65,10 @@ header .banner {
         text-decoration: none;
         display: flex;
         flex-direction: row;
-        align-items: flex-start;
+        align-items: center;
         gap: 10px;
 
-        background-color: #DD0000;
+        background-color: #283593;
         color: #fff;
         border: none;
         font-style: normal;
@@ -133,10 +133,10 @@ header .banner {
         text-decoration: none;
         display: flex;
         flex-direction: row;
-        align-items: flex-start;
+        align-items: center;
         gap: 10px;
 
-        background-color: #DD0000;
+        background-color: #283593;
         color: #fff;
         border: none;
         font-style: normal;
@@ -213,9 +213,9 @@ header .banner {
         text-decoration: none;
         display: flex;
         flex-direction: row;
-        align-items: flex-start;
+        align-items: center;
         gap: 10px;
-        background-color: #DD0000;
+        background-color: #283593;
         color: #fff;
         border: none;
         font-style: normal;
@@ -392,7 +392,7 @@ header .banner {
 
 .active, .btn:hover {
 
-    background-color: #DD0000;
+    background-color: #283593;
     text-decoration: none;
     margin: 5px 10px 5px 10px;
     padding: 15px;
@@ -552,7 +552,7 @@ header .banner {
     .view-all {
         text-align: center;
         display: block;
-        background-color: #DD0000;
+        background-color: #283593;
         text-decoration: none;
         margin: 5px 10px 5px 10px;
         padding: 15px 50px;
@@ -600,7 +600,7 @@ header .banner {
 
 .active, .btn:hover {
 
-    background-color: #DD0000;
+    background-color: #283593;
     text-decoration: none;
     margin: 5px 10px 5px 10px;
     padding: 15px;
