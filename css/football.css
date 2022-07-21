@@ -80,10 +80,12 @@ header .banner {
 
     .banner .right-item {
         flex: 45%;
+        
         overflow: hidden;
     }
 
     .right-item .person {
+        
         width: 90%;
         height: 100%;
         margin-top: 50px;
@@ -91,6 +93,12 @@ header .banner {
 
     }
 
+    .right-item .person:hover {
+        transform: translate(30px, 20px) rotate(30deg);
+
+    }
+
+   
 }
 
 /* Tablets  */
@@ -750,4 +758,3 @@ footer .social-links {
 
 
 /* Footer End */
-
